@@ -1,0 +1,2 @@
+* About
+This is a collection of themes for the kitty terminal based entirely on the excellent [[https://github.com/Lambda-Emacs/lambda-themes][lambda emacs themes]] by Colin McLear.
